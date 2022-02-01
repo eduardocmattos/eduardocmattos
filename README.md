@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @eduardocmattos
-- 👀 estou interessado em aprender sobre programação e cybersecurity
-- 🌱 programação e segurança cibernetica
-- 💞️ na criação de programas/sites e contribuiçao a empresas
-- 📫 para contato:
+- 👋 Prazer,me chamo Luiz, curso Ciência da Computação no Centro Universitário do Estado do Pará (CESUPA) |  1.º período
+- 👀 Busco me especializar em programação e cybersegurança
+- 🌱 ávido por conhecimentos tecnologicos
+- 📫 para entrar em contato
         .email: duduluizmc@gmail.com
         .instagram: eduardocmattos
         .whatsapp: 991877485
